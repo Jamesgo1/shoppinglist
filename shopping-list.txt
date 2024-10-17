@@ -8,3 +8,6 @@
 8 crisps
 9 burgers
 10 sausages
+
+20 books
+21 chair
